@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proplumbingwareham.com/sitemap.xml
